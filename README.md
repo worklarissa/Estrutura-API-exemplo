@@ -1,10 +1,10 @@
 # Banco de Ideias para desenvolvedores
-Projeto criado para o Módulo 5 do curso Desenvolvimento Web Full-Stack 
+Projeto criado para o Módulo 5 do curso Desenvolvimento Web Full-Stack da ONG Programadores do Amanhã
 <br></br>
-Essa é uma aplicação com o objetivo de fornecer ideias de projetos que desenvolvedores possam adicionar ao seu portifólio ou utilizar para estudos. A ideia do projeto surgiu exatamente da falta de ideias
-para um projeto, com o fim de auxiliar profissionais ou estudantes na mesma situação. Esperamos que possa ajudar mais pessoas a facilitarem o processo de estudos ou criação.
+Essa é uma aplicação que visa fornecer ideias de projetos que desenvolvedores possam adicionar ao seu portfólio ou utilizar para estudos. A ideia do projeto surgiu exatamente da falta de ideias para um projeto,
+com o fim de auxiliar profissionais ou estudantes na mesma situação. Esperamos que possa ajudar mais pessoas a facilitarem o processo de estudos ou criação.
 
-Em nossa aplicação o usuário poderá enviar ideias e salva-las, podendo acessar as ideias salvas em sua página de perfil.
+Em nossa aplicação, o usuário poderá enviar ideias e salvá-las, podendo acessar as ideias salvas em sua página de perfil.
 
 ## Tecnologias
 - Back-end: Node.js e Express.js
